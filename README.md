@@ -1,5 +1,17 @@
 # Hi there, I'm YASIR SARFARAZ 👋
+<div align='center'>
+  <p align='center'>
+    <a href="https://www.linkedin.com/in/yasirsarfaraz/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="yasirsarfaraj0786@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+  </p>
+</div>
 
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
+</div>
+<br/>
+
+                                            
 Welcome to my GitHub profile! I'm a passionate software developer with interests in Machine Learning, Deep Learning, and Full Stack Development. 🚀
 
 ## 🚀 About Me
