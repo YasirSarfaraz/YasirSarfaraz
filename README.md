@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm YASIR SARFARAZ 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with interests in High-Frequency Trading (HFT), Machine Learning, Deep Learning, and Full Stack Development. 🚀
 
