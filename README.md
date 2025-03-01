@@ -1,4 +1,9 @@
-# Hi there, I'm YASIR SARFARAZ 👋
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
+
+#    Hi there, I'm YASIR SARFARAZ 👋 Welcome To My GitHub Profile !
+
 <div align='center'>
   <p align='center'>
     <a href="https://www.linkedin.com/in/yasirsarfaraz/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
@@ -12,7 +17,7 @@
 <br/>
 
                                             
-Welcome to my GitHub profile! I'm a passionate software developer with interests in Machine Learning, Deep Learning, and Full Stack Development. 🚀
+I'm a passionate software developer with interests in Machine Learning, Deep Learning, and Full Stack Development. 🚀
 
 ## 🚀 About Me
 - 🎓 B.Tech 3rd Year Student at Bennett University.
@@ -105,4 +110,4 @@ Welcome to my GitHub profile! I'm a passionate software developer with interests
 
 
 ## 📫 Contact Me
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Yasir LinkedIn](https://www.linkedin.com/in/yasirsarfaraz)
