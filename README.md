@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with interests
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YasirSarfaraz&show_icons=true&theme=radical)
 
 ## 📫 Contact Me
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
