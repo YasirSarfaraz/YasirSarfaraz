@@ -1,6 +1,6 @@
 # Hi there, I'm YASIR SARFARAZ 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with interests in High-Frequency Trading (HFT), Machine Learning, Deep Learning, and Full Stack Development. 🚀
+Welcome to my GitHub profile! I'm a passionate software developer with interests in Machine Learning, Deep Learning, and Full Stack Development. 🚀
 
 ## 🚀 About Me
 - 🎓 B.Tech 3rd Year Student at Bennett University.
@@ -37,5 +37,3 @@ Welcome to my GitHub profile! I'm a passionate software developer with interests
 
 ## 📫 Contact Me
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-- Portfolio: [Your Portfolio](https://yasirsarfaraz.com)
