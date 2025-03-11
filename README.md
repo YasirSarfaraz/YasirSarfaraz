@@ -110,4 +110,4 @@ I'm a passionate software developer with interests in Machine Learning, Deep Lea
 
 
 ## 📫 Contact Me
-- LinkedIn: [Yasir LinkedIn](https://www.linkedin.com/in/yasirsarfaraz)
+- LinkedIn: [Yasir](https://www.linkedin.com/in/yasirsarfaraz)
